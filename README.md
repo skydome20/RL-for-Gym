@@ -1,2 +1,2 @@
 # RL-for-Gym
-RL for OpenAI Gym
+DQN Implement for OpenAI Gym environments.
